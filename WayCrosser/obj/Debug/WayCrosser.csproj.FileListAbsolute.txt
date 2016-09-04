@@ -1,0 +1,10 @@
+c:\users\earleys\documents\visual studio 2015\Projects\WayCrosser\WayCrosser\obj\Debug\WayCrosser.csproj.GenerateResource.Cache
+C:\Users\Earleys\Documents\Visual Studio 2015\Projects\WayCrosser\WayCrosser\bin\Debug\System.Net.Http.dll
+C:\Users\Earleys\Documents\Visual Studio 2015\Projects\WayCrosser\WayCrosser\bin\Debug\System.Net.Http.xml
+C:\Users\Earleys\Documents\Visual Studio 2015\Projects\WayCrosser\WayCrosser\bin\Debug\RoadCrosser.exe.config
+C:\Users\Earleys\Documents\Visual Studio 2015\Projects\WayCrosser\WayCrosser\obj\Debug\RoadCrosser.Properties.Resources.resources
+C:\Users\Earleys\Documents\Visual Studio 2015\Projects\WayCrosser\WayCrosser\obj\Debug\RoadCrosser.Form1.resources
+C:\Users\Earleys\Documents\Visual Studio 2015\Projects\WayCrosser\WayCrosser\bin\Debug\RoadCrosser.exe
+C:\Users\Earleys\Documents\Visual Studio 2015\Projects\WayCrosser\WayCrosser\bin\Debug\RoadCrosser.pdb
+C:\Users\Earleys\Documents\Visual Studio 2015\Projects\WayCrosser\WayCrosser\obj\Debug\RoadCrosser.exe
+C:\Users\Earleys\Documents\Visual Studio 2015\Projects\WayCrosser\WayCrosser\obj\Debug\RoadCrosser.pdb
